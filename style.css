@@ -12,10 +12,18 @@ body{
      
 }
 .half-width img{
-    width: 100%;
+    width: 80%;
 }
-
+.half-width h1{
+    color: rgb(26, 25, 25);
+   font-size: 50px;
+   margin-top: 20%;
+}
 
 .half-width p{
     color: dimgray;
+   
+}
+.flexible{
+    display: flex;
 }
