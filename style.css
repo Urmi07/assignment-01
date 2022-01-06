@@ -173,6 +173,7 @@ p{
 
 .global-width{
     width: 50%;
+    
 }
 .global-width p{
      color: dimgray;
@@ -200,49 +201,15 @@ p{
     margin-top: 5px;
 
     margin-left: 20%;
+   
 }
 
 
 
-.link-button3{
-    text-decoration: none;
-    background-color: rgb(15, 228, 164);
-    padding: 8px 30px;
-    border-radius: 5%;
-    color: rgb(241, 245, 243);
-    font-weight: 700;
-    font-family: 'Red Hat Display', sans-serif;
-    margin-top: 5px;
-    margin-left: 5%;
-    
-}
-.build-app{
-    display: flex;
 
-    padding-top: 100px;
-    padding-bottom: 100px;
-}
-.app-width{
-    width: 50%;
 
-}
-.app-width h2{
-     margin-left: 5%;
 
-}
-.app-width p{
 
-    color: dimgray;
-    font-family: 'Red Hat Display', sans-serif;
-    padding: 0px 0px 0px 2px;
-    margin-left: 5%;
-    padding-right: 30%;
-}
-.app-width img{
-
-    width: 90%;
-    margin-left:5% ;
-}
 .footer{
     background-color: black;
     margin: 0px;
