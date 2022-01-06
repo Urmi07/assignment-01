@@ -14,8 +14,8 @@ p{
 
 .half-width{
     width: 50%;
-     padding-left: 10%;
-     margin: auto;
+    padding-left: 10%;
+    margin: auto;
 
      
 }
@@ -41,10 +41,10 @@ p{
 .half-width h1{
     font-size:50px ;
     border-left: 5px solid rgb(15, 228, 164);
-   padding: 0px 0px 0px 20px;
+    padding: 0px 0px 0px 20px;
 }
 .link-button0{
-     text-decoration: none;
+    text-decoration: none;
     background-color: rgb(15, 228, 164);
     padding: 8px 30px;
     border-radius: 5%;
