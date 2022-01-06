@@ -4,6 +4,10 @@ h1{
 
     margin: 0%;
 }
+h2{
+      font-family: 'Red Hat Display', sans-serif;
+   
+}
 p{
     text-align: justify;
 }
@@ -91,6 +95,10 @@ p{
     font-family: 'Red Hat Display', sans-serif;
     
 }
+.mvg-container{
+    display: flex;
+    margin-bottom: auto;
+}
 
 
 
@@ -109,4 +117,13 @@ p{
     margin-left: 15px;
     margin-right: 15px;
         
+}
+.team-divide img{
+
+      width: 50%;
+}
+.team-divide{
+      width: 50%;
+      padding: 10%;
+      display: flex;
 }
