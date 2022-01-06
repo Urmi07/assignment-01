@@ -246,7 +246,7 @@ p{
 }
 .contact-us{
 
-    background-color: rgba(231, 241, 143, 0.528);
+    background-color: rgba(18, 42, 94, 0.234);
     background-size: 40px 50px;
     background-position: center;
     
@@ -270,7 +270,7 @@ p{
     
 }
 .contact-box{
-    background-color: wheat;
+    background-color: rgb(42, 10, 130);
     display: flex;
     width: 70%;
     margin: 50px auto;
@@ -278,7 +278,7 @@ p{
 .join{
     margin-left: 10px;
     font-family: 'Red Hat Display', sans-serif;
-    color: rgb(11, 77, 138);
+    color: rgb(235, 239, 243);
     font-size: 17px;
 }
 .contact-left{
@@ -288,7 +288,7 @@ p{
 .contact-right{
     flex-basis: 30%;
     padding: 45px;
-    background-color: rgb(176, 176, 230);
+    background-color: rgb(32, 52, 231);
 }
 .link-button5{
     text-decoration: none;
@@ -322,5 +322,6 @@ p{
     margin: auto;
     padding-left: 350px;
     padding-top: 0px;
+    padding-bottom: 10px;
 
 }
